@@ -1,7 +1,7 @@
 # Coding shenanigans!
 Hello there 👋 
 
-Welcome to my GitHub page!  Here's where I dump all my just-for-fun coding stuff–side projects, coding practice, and experiments.
+Welcome to my GitHub page!  Here's where I dump all of my just-for-fun coding stuff (side projects, coding practice, and experiments).
 
 <!--
 **ilee38/ilee38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
